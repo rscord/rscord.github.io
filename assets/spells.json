@@ -1,0 +1,3212 @@
+[
+  {
+    "name": "",
+    "level": null,
+    "book": "SPELL GROUP",
+    "category": "CATEGORY",
+    "description": "Notes",
+    "runes": []
+  },
+  {
+    "icon": "1/13/Home_Teleport_icon.png",
+    "name": "Home Teleport",
+    "level": 0,
+    "book": "ALL",
+    "category": "TELEPORT",
+    "description": "Transports the caster to one of the lodestones. Locations can be found on the Lodestone Network page. It takes around 10 seconds to cast, gives no experience, and is interruptible by combat. Not useful at all as an Emergency teleport, but will suffice as a no cost teleport in a peaceful situation.",
+    "runes": []
+  },
+  {
+    "icon": "9/91/Air_Strike_icon.png",
+    "name": "Air Strike",
+    "level": 0,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 48 damage per cast.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "2/2c/Confuse_icon.png",
+    "name": "Confuse",
+    "level": 3,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Reduces the target's chance to hit by 5% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Mind rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Opal)",
+    "level": 4,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants opal tipped bolts.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "c/cc/Water_Strike_icon.png",
+    "name": "Water Strike",
+    "level": 5,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 48 damage per cast.",
+    "runes": [
+      {
+        "rune": "Water rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "5/55/Lvl-1_Enchant_icon.png",
+    "name": "Lvl-1 Enchant",
+    "level": 7,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants sapphire and opal jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Sapphire)",
+    "level": 7,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants sapphire tipped bolts.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Mind rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/00/Earth_Strike_icon.png",
+    "name": "Earth Strike",
+    "level": 9,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 86 damage per cast.",
+    "runes": [
+      {
+        "rune": "Earth rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "c/c5/Mobilising_armies_teleport.png",
+    "name": "Mobilising Armies Teleport",
+    "level": 10,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Teleport yourself to the Mobilising Armies command centre.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "3/3a/Weaken_icon.png",
+    "name": "Weaken",
+    "level": 11,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Reduces the target's damage dealt by 5% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Body rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/07/Fire_Strike_icon.png",
+    "name": "Fire Strike",
+    "level": 13,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 125 damage per cast.",
+    "runes": [
+      {
+        "rune": "Fire rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Jade)",
+    "level": 14,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants jade tipped bolts.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "7/76/Bones_to_Bananas_icon.png",
+    "name": "Bones to Bananas",
+    "level": 15,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Converts all bones in inventory into bananas.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "2/22/Air_Bolt_icon.png",
+    "name": "Air Bolt",
+    "level": 17,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 163 damage per cast, previously 120 damage with chaos gauntlets.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "c/c2/Curse_icon.png",
+    "name": "Curse",
+    "level": 19,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Increases the target's damage received by 5% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Chaos rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/03/Bind_icon.png",
+    "name": "Bind",
+    "level": 20,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Prevents creatures from moving for 20 seconds, or players for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "a/a5/Low_Level_Alchemy_icon.png",
+    "name": "Low Alchemy",
+    "level": 21,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Converts items into coins, equal to the value if the item was sold at a General Store.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "0/00/Water_Bolt_icon.png",
+    "name": "Water Bolt",
+    "level": 23,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 221 damage per cast, previously 130 damage with chaos gauntlets.",
+    "runes": [
+      {
+        "rune": "Water rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Pearl)",
+    "level": 24,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants pearl tipped bolts.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "9/95/Varrock_Teleport_icon.png",
+    "name": "Varrock Teleport",
+    "level": 25,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the centre of Varrock, by the fountain near the shop. Players who have completed easy Varrock Tasks may teleport to the south entrance of the Grand Exchange instead.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "f/f6/Lvl-2_Enchant_icon.png",
+    "name": "Lvl-2 Enchant",
+    "level": 27,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants emerald and jade jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Emerald)",
+    "level": 27,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants emerald tipped bolts.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "8/8a/Earth_Bolt_icon.png",
+    "name": "Earth Bolt",
+    "level": 29,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 278 damage per cast, previously 140 damage with chaos gauntlets.",
+    "runes": [
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Red Topaz)",
+    "level": 29,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants red topaz tipped bolts.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "7/78/Lumbridge_Teleport_icon.png",
+    "name": "Lumbridge Teleport",
+    "level": 31,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the centre of Lumbridge Castle.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "7/75/Bounty_Teleport.png",
+    "name": "Bounty Teleport",
+    "level": 32,
+    "book": "ALL",
+    "category": "TELEPORT",
+    "description": "Transports the caster to their Bounty Hunter target. Players must unlock this spell from the Bounty Hunter & Deathmatch Reward Shop before using it.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Chaos rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "3/33/Telekinetic_Grab_icon.png",
+    "name": "Telekinetic grab",
+    "level": 33,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Grabs an item off the ground without need for directly taking it.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "2/26/Fire_Bolt_icon.png",
+    "name": "Fire Bolt",
+    "level": 35,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 336 damage per cast, previously 150 damage with chaos gauntlets.",
+    "runes": [
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "a/ab/Falador_Teleport_icon.png",
+    "name": "Falador Teleport",
+    "level": 37,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the centre of Falador, next to the statue of Saradomin.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "d/da/Teleport_to_House_icon.png",
+    "name": "House Teleport",
+    "level": 40,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to his or her player-owned house.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "4/4c/Air_Blast_icon.png",
+    "name": "Air Blast",
+    "level": 41,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 394 damage per cast.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "a/ac/Superheat_Item_icon.png",
+    "name": "Superheat Item",
+    "level": 43,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Smelts ores without the need for a furnace. The chance of smelting iron ore increases to 100%.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "2/2f/Camelot_Teleport_icon.png",
+    "name": "Camelot Teleport",
+    "level": 45,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the entrance of the castle at Camelot.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "5/59/Water_Blast_icon.png",
+    "name": "Water Blast",
+    "level": 47,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 451 damage per cast.",
+    "runes": [
+      {
+        "rune": "Water rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "9/99/Lvl-3_Enchant_icon.png",
+    "name": "Lvl-3 Enchant",
+    "level": 49,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants ruby and topaz jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Ruby)",
+    "level": 49,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants ruby tipped bolts.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "f/fb/Slayer_Dart_icon.png",
+    "name": "Slayer Dart",
+    "level": 50,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum damage of 480 per cast. Used to harm Turoths and Kurasks.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "0/08/Smoke_Rush.png",
+    "name": "Smoke Rush",
+    "level": 50,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum damage of 480 per cast. Reduces the target's chance to hit by 5% for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "9/9f/Snare_icon.png",
+    "name": "Snare",
+    "level": 50,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Prevents creatures from moving for 30 seconds, or players for 15 seconds.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "e/ec/Ardougne_Teleport_icon.png",
+    "name": "Ardougne Teleport",
+    "level": 51,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the marketplace in East Ardougne in the centre of the square. Completion of Plague City is required to use Ardougne Teleport.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "4/4b/Shadow_Rush.png",
+    "name": "Shadow Rush",
+    "level": 52,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum damage of 499 per cast. Reduces the target's damage dealt by 5% for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "e/ee/Earth_Blast_icon.png",
+    "name": "Earth Blast",
+    "level": 53,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 509 damage per cast.",
+    "runes": [
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "c/c5/Paddewwa_Teleport_icon.png",
+    "name": "Paddewwa Teleport",
+    "level": 54,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the entrance of Edgeville Dungeon.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "c/c0/High_Level_Alchemy_icon.png",
+    "name": "High Alchemy",
+    "level": 55,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Converts items into more coins than Low Level Alchemy, equal to the value if the item was sold at a Specialty Shop: ie The Sword Shop in Varrock.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "e/e5/Blood_Rush.png",
+    "name": "Blood Rush",
+    "level": 56,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 538 damage per cast. Heal the caster for 5% of the damage inflicted on the target.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "f/f0/Charge_Water_Orb_icon.png",
+    "name": "Charge Water Orb",
+    "level": 56,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "When cast at the Water Obelisk, this spell turns an unpowered orb into a water orb.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "icon": "2/2d/Lvl-4_Enchant_icon.png",
+    "name": "Lvl-4 Enchant",
+    "level": 57,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants diamond jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Diamond)",
+    "level": 57,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants diamond tipped bolts.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "5/5c/Ice_Rush.png",
+    "name": "Ice Rush",
+    "level": 58,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 557 damage per cast. Immobilises the target for 10 seconds, or 2.4 seconds for players.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "3/31/Watchtower_Teleport_icon.png",
+    "name": "Watchtower Teleport",
+    "level": 58,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the top of the Watchtower. Completion of the Watchtower quest is required to use this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "f/ff/Fire_Blast_icon.png",
+    "name": "Fire Blast",
+    "level": 59,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 566 damage per cast. Strongest offensive magic spell available to free players.",
+    "runes": [
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "6/6d/Bones_to_Peaches_icon.png",
+    "name": "Bones to Peaches",
+    "level": 60,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Converts all bones in inventory to peaches. Players must unlock this spell at the Mage Training Arena before using it.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "4/4b/Divine_Storm.png",
+    "name": "Divine Storm",
+    "level": 60,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "A powerful air spell, dealing up to 576 damage per cast.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "e/ed/Charge_Earth_Orb_icon.png",
+    "name": "Charge Earth Orb",
+    "level": 60,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "When cast at the Earth Obelisk, this spell turns an unpowered orb into an earth orb.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "icon": "4/4d/Senntisten_Teleport_icon.png",
+    "name": "Senntisten Teleport",
+    "level": 60,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the Digsite.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "2/20/Trollheim_Teleport_icon.png",
+    "name": "Trollheim Teleport",
+    "level": 61,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the very top of Trollheim, near Eadgar's cave. Completion of Eadgar's Ruse is required to use this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "d/dd/God_Wars_Dungeon_Teleport_icon.png",
+    "name": "God Wars Dungeon Teleport",
+    "level": 61,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the snowy area before the God Wars Dungeon entrance. Completion of The Mighty Fall is required to use this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "0/0d/Smoke_Burst.png",
+    "name": "Smoke Burst",
+    "level": 62,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 595 damage per cast and hits a 3x3 area surrounding the target. Reduces the targets' chance to hit by 5% for 10 seconds",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "6/69/Air_Wave_icon.png",
+    "name": "Air Wave",
+    "level": 62,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 595 damage per cast.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "3/3e/Charge_Fire_Orb_icon.png",
+    "name": "Charge Fire Orb",
+    "level": 63,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "When cast at the Fire Obelisk, this spell turns an unpowered orb into a fire orb.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 30
+      }
+    ]
+  },
+
+  {
+    "icon": "d/db/Shadow_Burst.png",
+    "name": "Shadow Burst",
+    "level": 64,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 614 damage per cast and hits a 3x3 area surrounding the target. Reduces the targets' damage dealt by 5% for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "2/24/Teleport_to_Ape_Atoll_icon.png",
+    "name": "Teleport Ape Atoll",
+    "level": 64,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Ape Atoll. Partial completion of Recipe for Disaster is required to use this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "1/10/Bake_Pie_icon.png",
+    "name": "Bake Pie",
+    "level": 65,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Bakes all uncooked pies in the caster's inventory. One set of runes is required for each pie.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      },
+      {
+        "rune": "Water rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "8/8f/Water_Wave_icon.png",
+    "name": "Water Wave",
+    "level": 65,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 624 damage per cast.",
+    "runes": [
+      {
+        "rune": "Water rune",
+        "amount": 4
+      },
+      {
+        "rune": "Air rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "7/79/Charge_Air_Orb_icon.png",
+    "name": "Charge Air Orb",
+    "level": 66,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "When cast at the Air Obelisk, this spell turns an unpowered orb into an air orb.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 30
+      }
+    ]
+  },
+  {
+    "icon": "2/22/Cure_Plant_icon.png",
+    "name": "Cure Plant",
+    "level": 66,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Cures a diseased plant.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "icon": "7/75/Kharyrll_Teleport_icon.png",
+    "name": "Kharyrll Teleport",
+    "level": 66,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Canifis. This spell is the only Ancient Magicks teleport spell that can be used in a portal room of a player-owned house.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "8/8f/Vulnerability_icon.png",
+    "name": "Vulnerability",
+    "level": 66,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Increases the target's damage received by 10% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Chaos rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "5/52/Monster_Examine_icon.png",
+    "name": "Monster Examine",
+    "level": 66,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Casting this on a monster produces the following information: Combat level, life points, maximum hit and whether it can be a Slayer assignment.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Mind rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "5/51/NPC_Contact_icon.png",
+    "name": "NPC Contact",
+    "level": 67,
+    "book": "LUNAR",
+    "category": "VARIES",
+    "description": "Allows remote contact with Slayer masters and some other NPCs.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "4/4e/Blood_Burst.png",
+    "name": "Blood Burst",
+    "level": 68,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 653 damage per cast and hits a 3x3 area surrounding the target. Heals the caster for 5% of the damage inflicted on the targets.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "6/62/Cure_Other_icon.png",
+    "name": "Cure Other",
+    "level": 68,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Cures another player of poison.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "2/23/Lvl-5_Enchant_icon.png",
+    "name": "Lvl-5 Enchant",
+    "level": 68,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants dragonstone jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 15
+      },
+      {
+        "rune": "Water rune",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Dragonstone)",
+    "level": 68,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants dragonstone tipped bolts.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "icon": "1/15/Humidify_icon.png",
+    "name": "Humidify",
+    "level": 68,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Fills all empty water-carrying vessels (such as vials and buckets) in the caster's inventory with water, excluding some quest-specific vessels.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "2/2c/Moonclan_Teleport_icon.png",
+    "name": "Moonclan Teleport",
+    "level": 69,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to Moonclan Island.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "1/1a/Mazcab_Teleport_icon.png",
+    "name": "Mazcab Teleport",
+    "level": 70,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to Mazcab.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "a/a3/Earth_Wave_icon.png",
+    "name": "Earth Wave",
+    "level": 70,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 672 damage per cast.",
+    "runes": [
+      {
+        "rune": "Earth rune",
+        "amount": 4
+      },
+      {
+        "rune": "Air rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "1/12/Ice_Burst.png",
+    "name": "Ice Burst",
+    "level": 70,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 672 damage per cast and hits a 3x3 area surrounding the target. Immobilising the targets for 10 seconds, or 4.8 seconds for players",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "1/14/Tele-group_Moonclan_icon.png",
+    "name": "Tele-group Moonclan",
+    "level": 70,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (with Accept Aid on), to Moonclan Island.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "5/57/Ourania_Teleport_icon.png",
+    "name": "Ourania Teleport",
+    "level": 71,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster outside the cave with the Ourania Runecrafting Altar",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "a/a2/Cure_Me_icon.png",
+    "name": "Cure Me",
+    "level": 71,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Cures the caster of poison.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "c/c6/Hunter_Kit_icon.png",
+    "name": "Hunter Kit",
+    "level": 71,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Gives the caster a noose wand, a butterfly net, a bird snare, a rabbit snare, a teasing stick, an unlit torch, and a box trap.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "c/cb/Lassar_Teleport_icon.png",
+    "name": "Lassar Teleport",
+    "level": 72,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to the top of Ice Mountain.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "f/fb/Waterbirth_Teleport_icon.png",
+    "name": "Waterbirth Teleport",
+    "level": 72,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Waterbirth Island.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "6/64/South_Falador_Teleport_icon.png",
+    "name": "South Falador Teleport",
+    "level": 72,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to the southern gate of Falador. Unlocked at the Livid Farm.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "4/40/Enfeeble_icon.png",
+    "name": "Enfeeble",
+    "level": 73,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Lowers the target's damage dealt by 10% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Body rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "8/88/Tele-group_Waterbirth_icon.png",
+    "name": "Tele-group Waterbirth",
+    "level": 73,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (who have Accept Aid on), to Waterbirth Island.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "9/96/Cure_Group_icon.png",
+    "name": "Cure Group",
+    "level": 74,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Cures up to 4 target players of poison.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "f/f6/Smoke_Blitz.png",
+    "name": "Smoke Blitz",
+    "level": 74,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum damage of 710 per cast. Reduces the target's chance to hit by 5% for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "0/07/Teleother_Lumbridge_icon.png",
+    "name": "Tele-other Lumbridge",
+    "level": 74,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports another player (who has Accept Aid switched on) to Lumbridge.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "4/47/Barbarian_Teleport_icon.png",
+    "name": "Barbarian Teleport",
+    "level": 75,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the Barbarian Outpost.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "e/e2/Opal_Aurora.png",
+    "name": "Opal Aurora",
+    "level": 75,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 720 damage per cast. Increases the lifespan of prisms.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "f/fd/Fire_Wave_icon.png",
+    "name": "Fire Wave",
+    "level": 75,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 720 damage per cast.",
+    "runes": [
+      {
+        "rune": "Fire rune",
+        "amount": 4
+      },
+      {
+        "rune": "Air rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "0/07/Stat_Spy_icon.png",
+    "name": "Stat Spy",
+    "level": 75,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Casting this on another player allows the caster to see the target's combat and non-combat stats, along with whether or not any stats have been boosted or reduced.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Body rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "0/03/Repair_Rune_Pouch_icon.png",
+    "name": "Repair Rune Pouch",
+    "level": 75,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Cast on an essence pouch. Pouch is repaired and will take 5 times longer to deteriorate. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "9/9c/Tele-group_Barbarian_icon.png",
+    "name": "Tele-group Barbarian",
+    "level": 76,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (who have Accept Aid on), to the Barbarian Outpost.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "c/cc/North_Ardougne_Teleport_icon.png",
+    "name": "North Ardougne Teleport",
+    "level": 76,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to the end of the pathway found north of East Ardougne's bank. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "d/d1/Shadow_Blitz.png",
+    "name": "Shadow Blitz",
+    "level": 76,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 729 damage per cast. Reduces the target's damage dealt by 5% for 10 seconds.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "f/f8/Prism_of_Restoration.png",
+    "name": "Prism of Restoration",
+    "level": 76,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Places a prism which heals nearby familiars and restores their special attack energy, and gives a chance to not use scrolls on familiar special ability use.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 6
+      },
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "5/5e/Storm_of_Armadyl.png",
+    "name": "Storm of Armadyl",
+    "level": 77,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 739 damage per cast.",
+    "runes": []
+  },
+  {
+    "icon": "2/2f/Intercept.png",
+    "name": "Intercept",
+    "level": 77,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Redirects damage taken by the targeted player over the next three seconds to the caster, and reduces the damage to 95% of the original hit.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "d/d4/Sapphire_Aurora.png",
+    "name": "Sapphire Aurora",
+    "level": 77,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 739 damage per cast. Overcharges prisms, giving them extra effects for their next activation.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "1/19/Superglass_Make_icon.png",
+    "name": "Superglass Make",
+    "level": 77,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Converts all sand and soda ash (or seaweed) in the caster's inventory into molten glass.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 6
+      },
+      {
+        "rune": "Air rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "a/a6/Dareeyak_Teleport_icon.png",
+    "name": "Dareeyak Teleport",
+    "level": 78,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the western ruins in the Wilderness.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      },
+      {
+        "rune": "Air rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "9/9e/Khazard_Teleport_icon.png",
+    "name": "Khazard Teleport",
+    "level": 78,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Port Khazard.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "a/aa/Remote_Farm_icon.png",
+    "name": "Remote Farm",
+    "level": 78,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Allows the status of farming patches in RuneScape to be viewed and, if a patch is diseased, it allows you to cure them. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "f/fa/Entangle_icon.png",
+    "name": "Entangle",
+    "level": 79,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Prevents creatures from moving for 40 seconds, or players for 20 seconds.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "8/82/Emerald_Aurora.png",
+    "name": "Emerald Aurora",
+    "level": 79,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 758 damage per cast. Applies a stacking 1% damage reduction buff to the caster. Stacks up to 5%, and with other damage reduction methods.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "e/e9/Tele-group_Khazard_icon.png",
+    "name": "Tele-group Khazard",
+    "level": 79,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (who have Accept Aid on), to Port Khazard.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "icon": "9/98/Dream_icon.png",
+    "name": "Dream",
+    "level": 79,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "This spell puts the caster into a \"sleep\" state, during which life points regenerate at twice their usual rate. Any activity except talking will \"awaken\" the caster.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Body rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "7/77/Polypore_Strike_icon.png",
+    "name": "Polypore Strike",
+    "level": 80,
+    "book": "ALL",
+    "category": "COMBAT",
+    "description": "Theoretical maximum of 768 damage per cast, but is limited to 720 due to the Polypore staff being a level 75 weapon.",
+    "runes": []
+  },
+  {
+    "icon": "4/41/Blood_Blitz.png",
+    "name": "Blood Blitz",
+    "level": 80,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast. Heals the caster for 5% of the damage inflicted on the target.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "c/c5/Prism_of_Salvation.png",
+    "name": "Prism of Salvation",
+    "level": 80,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Places a prism which players can click to teleport near to, as long as there's a clear path between.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 6
+      },
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "d/d5/Stagger_icon.png",
+    "name": "Stagger",
+    "level": 80,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Reduces the target's chance to hit by 10% for 1 minute.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Mind rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "b/b8/String_Jewellery_icon.png",
+    "name": "String Jewellery",
+    "level": 80,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Strings all unstrung amulets in the caster's inventory.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      },
+      {
+        "rune": "Water rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "5/57/Spiritualise_Food_icon.png",
+    "name": "Spiritualise Food",
+    "level": 80,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Cast on a food. This will heal your familiar and boost its stats. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Body rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "5/56/Stat_Restore_Pot_Share_icon.png",
+    "name": "Stat Restore Pot Share",
+    "level": 81,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "This spell can target up to 4 other players. Each target receives a dose of a restoration potion (such as a prayer potion) from the caster's inventory.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      },
+      {
+        "rune": "Water rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "b/be/Air_Surge_icon.png",
+    "name": "Air Surge",
+    "level": 81,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 768 damage per cast.",
+    "runes": [
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "f/f9/Ruby_Aurora.png",
+    "name": "Ruby Aurora",
+    "level": 81,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 777 damage per cast. Has a chance to apply a 1% damage buff to nearby allies. Stacks up to 3%.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "9/94/Ice_Blitz.png",
+    "name": "Ice Blitz",
+    "level": 82,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast. Immobilises the target for 10 seconds, or 7.2 seconds for players.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "1/11/Prism_of_Loyalty.png",
+    "name": "Prism of Loyalty",
+    "level": 82,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Places a prism into which players can funnel life points. Anyone doing so will take damage, and the prism will automatically heal nearby players with 25% or lower life points.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 6
+      },
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "e/e7/Magic_Imbue_icon.png",
+    "name": "Magic Imbue",
+    "level": 82,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Allows combination of runes without the need for a talisman for a short time.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 7
+      },
+      {
+        "rune": "Water rune",
+        "amount": 7
+      }
+    ]
+  },
+  {
+    "icon": "a/a5/Teleother_Falador_icon.png",
+    "name": "Tele-other Falador",
+    "level": 82,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports another player (who has Accept Aid switched on) to Falador.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Water rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "9/99/Fertile_Soil_icon.png",
+    "name": "Fertile Soil",
+    "level": 83,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Treats a farming patch with supercompost.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "icon": "6/6d/Make_Leather_icon.png",
+    "name": "Make Leather",
+    "level": 83,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Lets the player tan up to 5 hides per cast. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Body rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "4/41/Boost_Potion_Share_icon.png",
+    "name": "Boost Potion Share",
+    "level": 84,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Has the same effect as Stat Restore Pot Share, except with a potion that boosts a stat (such as a strength potion).",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 12
+      },
+      {
+        "rune": "Water rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "1/12/Shield_Dome.png",
+    "name": "Shield dome",
+    "level": 84,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Deploys a static dome that allies can stand within to reduce incoming damage by 50%. Domes cannot be layered on top of each other, and new shield domes affecting a player within 2 minutes have diminishing returns.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "a/a0/Carrallanger_Teleport_icon.png",
+    "name": "Carrallanger Teleport",
+    "level": 84,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the graveyard in the Wilderness.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 2
+      },
+      {
+        "rune": "Law rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "e/eb/Teleport_Block_icon.png",
+    "name": "Teleport Block",
+    "level": 85,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Blocks target from teleporting",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Chaos rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "0/08/Fishing_Guild_Teleport_icon.png",
+    "name": "Fishing Guild Teleport",
+    "level": 85,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the Fishing Guild.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "e/e2/Water_Surge_icon.png",
+    "name": "Water Surge",
+    "level": 85,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 768 damage per cast.",
+    "runes": [
+      {
+        "rune": "Water rune",
+        "amount": 5
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "0/07/Smoke_Barrage.png",
+    "name": "Smoke Barrage",
+    "level": 86,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast and hits a 3x3 area surrounding the target. Reduces the targets' chance to hit by 5% for 10 seconds",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "e/e2/Prism_of_Dowsing.png",
+    "name": "Prism of Dowsing",
+    "level": 86,
+    "book": "ANCIENT",
+    "category": "SKILLING",
+    "description": "Places a prism which attracts wisps to it and increases the chance of drawing enriched wisps. All nearby players can benefit from this.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 3
+      },
+      {
+        "rune": "Nature rune",
+        "amount": 3
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "7/76/Tele-group_Fishing_Guild_icon.png",
+    "name": "Tele-group Fishing Guild",
+    "level": 86,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (who have Accept Aid turned on) to the Fishing Guild.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 14
+      }
+    ]
+  },
+  {
+    "icon": "0/0c/Plank_Make_icon.png",
+    "name": "Plank Make",
+    "level": 86,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Transforms one log in the caster's inventory into a plank of the appropriate type. Like the Sawmill, coins are still required to convert logs, but less than if the logs had been taken to the Sawmill.",
+    "runes": [
+      {
+        "rune": "Nature rune",
+        "amount": 1
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "icon": "8/82/Catherby_Teleport_icon.png",
+    "name": "Catherby Teleport",
+    "level": 87,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Catherby.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "a/a1/Tune_Bane_Ore_icon.png",
+    "name": "Tune Bane Ore",
+    "level": 87,
+    "book": "LUNAR",
+    "category": "SKILLING",
+    "description": "Tunes bane ore against a specific creature.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "6/6d/Lvl-6_Enchant_icon.png",
+    "name": "Lvl-6 Enchant",
+    "level": 87,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants onyx, alchemical onyx and hydrix jewellery.",
+    "runes": [
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 20
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "icon": "0/0a/Enchant_Crossbow_Bolt_icon.png",
+    "name": "Enchant Crossbow Bolt (Onyx)",
+    "level": 87,
+    "book": "STANDARD",
+    "category": "SKILLING",
+    "description": "Enchants onyx tipped bolts.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 1
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "icon": "e/e8/Crystallise.png",
+    "name": "Crystallise",
+    "level": 88,
+    "book": "ANCIENT",
+    "category": "SKILLING",
+    "description": "When cast on mining, fishing or woodcutting spots - or full box traps - will cause the resource to persist for 30 seconds, yield no resources and give increased XP rounded to 50%. Other players may still deplete the resource, but Crystallise will carry on when the resource is back.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 6
+      },
+      {
+        "rune": "Chaos rune",
+        "amount": 6
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 6
+      },
+      {
+        "rune": "Water rune",
+        "amount": 6
+      }
+    ]
+  },
+  {
+    "icon": "4/4d/Rapid_Growth.png",
+    "name": "Rapid Growth",
+    "level": 88,
+    "book": "ANCIENT",
+    "category": "SKILLING",
+    "description": "Skips a tree, fruit tree, or herb patch forward a growth stage. Usable once per day on each eligible farming location.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 3
+      },
+      {
+        "rune": "Nature rune",
+        "amount": 3
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "1/1a/Shadow_Barrage.png",
+    "name": "Shadow Barrage",
+    "level": 88,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast and hits a 3x3 area surrounding the target. Reduces the targets' damage dealt by 5% for 10 seconds",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "9/94/Tele-group_Catherby_icon.png",
+    "name": "Tele-group Catherby",
+    "level": 88,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, and up to 4 other players (who have Accept Aid on), to Catherby.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 15
+      }
+    ]
+  },
+  {
+    "icon": "b/be/Ice_Plateau_Teleport_icon.png",
+    "name": "Ice Plateau Teleport",
+    "level": 89,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the Ice Plateau in level 53 Wilderness.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "icon": "2/2c/Annakarl_Teleport_icon.png",
+    "name": "Annakarl Teleport",
+    "level": 90,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to the Demonic Ruins in the Wilderness.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Law rune",
+        "amount": 2
+      }
+    ]
+  },
+  {
+    "icon": "b/bd/Teleother_Camelot_icon.png",
+    "name": "Tele-other Camelot",
+    "level": 90,
+    "book": "STANDARD",
+    "category": "TELEPORT",
+    "description": "Transports another player (who has Accept Aid switched on) to Camelot.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 2
+      },
+      {
+        "rune": "Law rune",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "icon": "8/86/Tele-group_Ice_Plateau_icon.png",
+    "name": "Tele-group Ice Plateau",
+    "level": 90,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with up to 4 other players (who have Accept Aid on), to the Ice Plateau in level 53 Wilderness.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 16
+      }
+    ]
+  },
+  {
+    "icon": "d/d3/Disruption_Shield_icon.png",
+    "name": "Disruption Shield",
+    "level": 90,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Nullifies the next hit you receive from another player. Only works on other players. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Body rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "9/99/Crystal_Mask.png",
+    "name": "Crystal Mask",
+    "level": 90,
+    "book": "ANCIENT",
+    "category": "SKILLING",
+    "description": "Gives +15% to pickpocketing chance and gives a chance to avoid damage and stun on failure for 5 minutes.",
+    "runes": [
+      {
+        "rune": "Soul rune",
+        "amount": 4
+      },
+      {
+        "rune": "Body rune",
+        "amount": 5
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 6
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 7
+      }
+    ]
+  },
+  {
+    "icon": "a/a0/Earth_Surge_icon.png",
+    "name": "Earth Surge",
+    "level": 90,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 768 damage per cast.",
+    "runes": [
+      {
+        "rune": "Earth rune",
+        "amount": 5
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "8/82/Blood_Barrage.png",
+    "name": "Blood Barrage",
+    "level": 92,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast and hits a 3x3 area surrounding the target. Heals the caster for 5% of the damage inflicted on the targets.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "c/c0/Heal_Other_icon.png",
+    "name": "Heal Other",
+    "level": 92,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "This spell damages the caster for 75% of their current life points and heals another target player the same amount.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 1
+      },
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "5/54/Trollheim_Teleport_%28Lunar%29_icon.png",
+    "name": "Trollheim Teleport (Lunar)",
+    "level": 92,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Teleports the caster to Trollheim. Unlocked at the Livid Farm. Completion of My Arm's Big Adventure is required to use this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "7/71/Vengeance_Other_icon.png",
+    "name": "Vengeance Other",
+    "level": 93,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Another target player receives the \"Vengeance\" effect. The next time another player or an NPC attacks that player, the attacking player or NPC is dealt damage, up to 75% of the damage that player or NPC's first attack dealt.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "1/11/Tele-group_Trollheim_icon.png",
+    "name": "Tele-group Trollheim",
+    "level": 93,
+    "book": "LUNAR",
+    "category": "TELEPORT",
+    "description": "Transports the caster, along with players in a 3x3 area around them (with Accept Aid on), who have completed My Arm's Big Adventure), to Trollheim. Unlocked at the Livid Farm. Completion of My Arm's Big Adventure is required to cast this spell.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      },
+      {
+        "rune": "Water rune",
+        "amount": 20
+      }
+    ]
+  },
+  {
+    "icon": "b/b5/Ice_Barrage.png",
+    "name": "Ice Barrage",
+    "level": 94,
+    "book": "ANCIENT",
+    "category": "COMBAT",
+    "description": "Maximum of 786 damage per cast and hits a 3x3 area surrounding the target. Immobilises the targets for 10 seconds, or 9.6 seconds for players.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "9/91/Vengeance_icon.png",
+    "name": "Vengeance",
+    "level": 94,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "The caster receives the \"Vengeance\" effect. The next time a player or NPC attacks the caster, that player or NPC takes up to 75% of the damage their attack dealt.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 4
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 10
+      }
+    ]
+  },
+  {
+    "icon": "7/79/Fire_Surge_icon.png",
+    "name": "Fire Surge",
+    "level": 95,
+    "book": "STANDARD",
+    "category": "COMBAT",
+    "description": "Maximum of 768 damage per cast.",
+    "runes": [
+      {
+        "rune": "Fire rune",
+        "amount": 5
+      },
+      {
+        "rune": "Air rune",
+        "amount": 5
+      }
+    ]
+  },
+  {
+    "icon": "7/73/Heal_Group_icon.png",
+    "name": "Heal Group",
+    "level": 95,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Damages the caster for 75% of their current life points and distributes the lost life points among all other players within a 3x3 grid of the caster.",
+    "runes": [
+      {
+        "rune": "Blood rune",
+        "amount": 3
+      },
+      {
+        "rune": "Law rune",
+        "amount": 6
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 4
+      }
+    ]
+  },
+  {
+    "icon": "d/d8/Vengeance_Group_icon.png",
+    "name": "Vengeance Group",
+    "level": 95,
+    "book": "LUNAR",
+    "category": "COMBAT",
+    "description": "Casts Vengeance on up to 50 players within a 7x7 square around the caster. When activated, all players around the caster with accept aid on receive the effect of vengeance. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Death rune",
+        "amount": 3
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 4
+      },
+      {
+        "rune": "Earth rune",
+        "amount": 11
+      }
+    ]
+  },
+  {
+    "icon": "2/20/Ghorrock_Teleport_icon.png",
+    "name": "Ghorrock Teleport",
+    "level": 96,
+    "book": "ANCIENT",
+    "category": "TELEPORT",
+    "description": "Transports the caster to Ice Plateau in the Wilderness.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 2
+      },
+      {
+        "rune": "Water rune",
+        "amount": 8
+      }
+    ]
+  },
+  {
+    "icon": "f/f0/Spellbook_Swap_icon.png",
+    "name": "Spellbook Swap",
+    "level": 96,
+    "book": "LUNAR AND ANCIENT",
+    "category": "VARIES",
+    "description": "Enables the caster to cast a single spell from any other spellbook.",
+    "runes": [
+      {
+        "rune": "Law rune",
+        "amount": 1
+      },
+      {
+        "rune": "Cosmic rune",
+        "amount": 2
+      },
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "icon": "b/b8/Borrowed_Power_icon.png",
+    "name": "Borrowed Power",
+    "level": 99,
+    "book": "LUNAR",
+    "category": "VARIES",
+    "description": "Enables the caster to cast selected spells from the standard spellbook, while wearing an Arcane capacitor necklace charged with the runes for this spell. Unlocked at Livid Farm.",
+    "runes": [
+      {
+        "rune": "Astral rune",
+        "amount": 3
+      }
+    ]
+  }
+]
